@@ -64,7 +64,7 @@ Chaque fichier contient toutes les informations du club (nom, pays, compétition
 
 ## 🧾 Auteurs
 
-* 🧑‍💻 Projet développé par \[Ton Nom] pour organiser les données des clubs mondiaux par ligue.
+* 🧑‍💻 Projet développé par [BAH Ibrahima](https://ibrahima-bah.com/) pour organiser les données des clubs mondiaux par ligue.
 
 ---
 
