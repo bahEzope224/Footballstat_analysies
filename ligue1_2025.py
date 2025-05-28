@@ -14,6 +14,6 @@ print(count)
 
 
 # Enregistrer le nouveau fichier
-#filtered_df.to_csv("clubs_saison_2025.csv", index=False)
+filtered_df.to_csv("clubs_saison_2025.csv", index=False)
 
-#print("Fichier 'clubs_saison_2024.csv' créé avec succès.")
+print("Fichier 'clubs_saison_2024.csv' créé avec succès.")
