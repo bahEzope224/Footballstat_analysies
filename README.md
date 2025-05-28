@@ -1,8 +1,3 @@
-Voici la version mise à jour du `README.md` avec la mention claire que les données proviennent d’un **web scraping de Transfermarkt** :
-
----
-
-````markdown
 # 📊 Regroupement des Clubs de Football par Compétition
 
 Ce projet Python permet de fusionner deux fichiers CSV contenant :
