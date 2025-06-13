@@ -1,9 +1,11 @@
 import pandas as pd
 import os
 
+#def main():
+
 # Lire les fichiers CSV
-clubs_df = pd.read_csv('./datasetfoot_exploitable/clubs.csv')
-competitions_df = pd.read_csv('./datasetfoot_exploitable/competitions.csv')
+clubs_df = pd.read_csv('./clubs.csv')
+competitions_df = pd.read_csv('./competitions.csv')
 
 
 # Fusionner les deux DataFrames sur l'identifiant de compétition
